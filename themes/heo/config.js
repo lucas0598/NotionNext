@@ -22,7 +22,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: ' ',
   HEO_HERO_TITLE_4: '立即开启升级',
   HEO_HERO_TITLE_5: '你的个人健康管理OS',
-  HEO_HERO_TITLE_LINK: 'https://tangly1024.com',
+  HEO_HERO_TITLE_LINK: 'https://x.com/YaraDaily989',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
@@ -109,7 +109,7 @@ const CONFIG = {
 
   HEO_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
   HEO_SOCIAL_CARD_TITLE_1: '交流频道',
-  HEO_SOCIAL_CARD_TITLE_2: '加入我们的社群讨论分享',
+  HEO_SOCIAL_CARD_TITLE_2: '加入Yara的社群讨论分享',
   HEO_SOCIAL_CARD_TITLE_3: '点击加入社群',
   HEO_SOCIAL_CARD_URL: 'https://x.com/i/communities/2016506593719050370',
 
